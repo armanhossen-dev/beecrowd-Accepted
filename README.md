@@ -21,7 +21,7 @@ This repository:
 2. Serves as a reference for anyone looking for solutions to similar problems.
 
 ## Language Used
-All solutions are implemented in **C**.
+All solutions are implemented in **C**,**C++**.
 
 ## How to Use
 1. Clone the repository:
